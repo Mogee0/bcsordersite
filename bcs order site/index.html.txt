@@ -4,14 +4,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Food Ordering Webpage</title>
+  <title>Bhavani Catering Service</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Food Ordering Webpage</h1>
+    <h1>Bhavani Catering Service</h1>
+<p>Taste says the deliciousness of the Food </p>
   </header>
-
   <nav>
     <a href="#menu">🛍️ Product List</a>
     <a href="#cart">🛒 Cart</a>
